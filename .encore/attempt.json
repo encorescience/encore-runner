@@ -11,6 +11,14 @@
    "artifact": "14989330888",
    "state_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "state_after": "600517da8567c7bc697e0e5863bc7b6b849cab51d734ed251c4a4931d23c0693"
+  },
+  {
+   "role": "claims-check",
+   "run_url": "https://github.com/encorescience/encore-runner/actions/runs/45538575730",
+   "result": "success",
+   "artifact": "14989063482",
+   "state_before": "600517da8567c7bc697e0e5863bc7b6b849cab51d734ed251c4a4931d23c0693",
+   "state_after": "3f48a739928db7cb98d3747de08718534c945ff89dc4093d3a7c4aa4558011d7"
   }
  ]
 }
