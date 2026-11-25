@@ -1,0 +1,16 @@
+{
+ "format": 1,
+ "paper": "kim-2026-learning",
+ "registry": "encorescience/encore-registry",
+ "base_sha": "8e040d9a0f56c6176907f560d9535f10f541a7fb",
+ "runs": [
+  {
+   "role": "claims",
+   "run_url": "https://github.com/encorescience/encore-runner/actions/runs/45538575730",
+   "result": "success",
+   "artifact": "14989330888",
+   "state_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "state_after": "600517da8567c7bc697e0e5863bc7b6b849cab51d734ed251c4a4931d23c0693"
+  }
+ ]
+}
